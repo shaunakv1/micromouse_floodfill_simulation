@@ -1,0 +1,4 @@
+main DSTACK_USAGE:5 DSTACK_LEVEL:5 FILE:"ADC.c" LINE:111
+lcd_init DSTACK_USAGE:1 DSTACK_LEVEL:6 FILE:"C:\cvavreval\lib\lcd.lib" LINE:252
+_lcd_init_write DSTACK_USAGE:1 DSTACK_LEVEL:7 FILE:"C:\cvavreval\lib\lcd.lib" LINE:234
+timer2_ovf_isr DSTACK_USAGE:4 DSTACK_LEVEL:11 FILE:"ADC.c" LINE:55

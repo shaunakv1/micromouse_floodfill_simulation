@@ -1,0 +1,25 @@
+RAM Allocation
+Variable                                                          Address   Size
+--------------------------------------------------------------------------------
+step                                                              0160h        4
+BASE_SPEED                                                        0164h        1
+_base_y                                                           0165h        4
+_lcd_x                                                            0169h        1
+_lcd_y                                                            016Ah        1
+_lcd_maxx                                                         016Bh        1
+
+EEPROM Allocation
+Variable                                                          Address   Size
+--------------------------------------------------------------------------------
+
+Register Allocation
+Variable                                                          Register  Size
+--------------------------------------------------------------------------------
+l_overflow                                                        R5           1
+r_overflow                                                        R4           1
+l_step                                                            R7           1
+r_step                                                            R6           1
+x                                                                 R9           1
+y                                                                 R8           1
+rightMotorOn                                                      R10,R11      2
+leftMotorOn                                                       R12,R13      2

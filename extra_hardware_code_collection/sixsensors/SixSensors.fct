@@ -1,0 +1,5 @@
+main DSTACK_USAGE:0 DSTACK_LEVEL:0 FILE:"SixSensors.c" LINE:79
+show DSTACK_USAGE:8 DSTACK_LEVEL:8 FILE:"SixSensors.c" LINE:36
+lcd_putchar DSTACK_USAGE:1 DSTACK_LEVEL:9 FILE:"C:\cvavreval\lib\lcd.lib" LINE:178
+lcd_gotoxy DSTACK_USAGE:2 DSTACK_LEVEL:11 FILE:"C:\cvavreval\lib\lcd.lib" LINE:158
+_lcd_write_data DSTACK_USAGE:1 DSTACK_LEVEL:12 FILE:"C:\cvavreval\lib\lcd.lib" LINE:77

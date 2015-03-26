@@ -1,0 +1,4 @@
+main DSTACK_USAGE:0 DSTACK_LEVEL:0 FILE:"steppers.c" LINE:73
+lcd_init DSTACK_USAGE:1 DSTACK_LEVEL:1 FILE:"c:\cvavreval\lib\lcd.lib" LINE:252
+_lcd_init_write DSTACK_USAGE:1 DSTACK_LEVEL:2 FILE:"c:\cvavreval\lib\lcd.lib" LINE:234
+timer2_ovf_isr DSTACK_USAGE:3 DSTACK_LEVEL:5 FILE:"steppers.c" LINE:49
