@@ -1,4 +1,4 @@
-# Micromouse Floodfill Simulation
+# Micromouse Project, with Flood Fill Algorithm
 JavaSimulator for running flood fill algorithms on collection of real competition Mazes 
 
 ####Sample First Run (Video)
