@@ -1,0 +1,52 @@
+RAM Allocation
+Variable                                                          Address   Size
+--------------------------------------------------------------------------------
+step                                                              0260h        4
+step_rev                                                          0264h        4
+rightMotorOn                                                      0268h        2
+leftMotorOn                                                       026Ah        2
+left                                                              026Ch        2
+right                                                             026Eh        2
+center                                                            0270h        2
+steps_remaining                                                   0272h        2
+steps_taken                                                       0274h        2
+wall_infoL                                                        0276h        2
+wall_infoR                                                        0278h        2
+wall_infoF                                                        027Ah        2
+wall_act                                                          027Ch        3
+error                                                             027Fh        2
+MOTOR_DELAY                                                       0281h        1
+mouseR                                                            0282h        1
+mouseC                                                            0283h        1
+ori                                                               0284h        1
+quad                                                              0285h        1
+zone                                                              0286h        1
+pathcount                                                         0287h        1
+deadFlag                                                          0288h        1
+cameFrom                                                          0289h        1
+map                                                               028Ah     1089
+wall                                                              06CBh        4
+wallflood                                                         06CFh      256
+_base_y                                                           07CFh        4
+_lcd_x                                                            07D3h        1
+_lcd_y                                                            07D4h        1
+_lcd_maxx                                                         07D5h        1
+p                                                                 07D6h        2
+
+EEPROM Allocation
+Variable                                                          Address   Size
+--------------------------------------------------------------------------------
+
+Register Allocation
+Variable                                                          Register  Size
+--------------------------------------------------------------------------------
+l_overflow                                                        R5           1
+r_overflow                                                        R4           1
+l_step                                                            R7           1
+r_step                                                            R6           1
+x                                                                 R9           1
+y                                                                 R8           1
+z                                                                 R11          1
+accCounter                                                        R10          1
+dirR                                                              R13          1
+dirL                                                              R12          1
