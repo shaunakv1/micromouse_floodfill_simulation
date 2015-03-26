@@ -1,0 +1,1 @@
+java MazeSimulator JerryHome.maze 1000
